@@ -1,4 +1,4 @@
-# LLM Arena: Benchmarking LLM Models in Russian
+# [LLM Arena](https://llmarena.ru/): Benchmarking LLM Models in Russian
 
 **LLM Arena** ([https://llmarena.ru/](https://llmarena.ru/)) is an open crowd-sourced platform designed for evaluating large language models (LLMs) in the Russian language. Our goal is to provide an objective, open, and up-to-date benchmark of LLM models tailored for the Russian language.
 
